@@ -100,6 +100,3 @@ text
 
 ---
 
-Copy and paste this into your `README.md` file. Let me know if you want any sections adjusted or removed!
-
-
